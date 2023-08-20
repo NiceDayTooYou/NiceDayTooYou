@@ -1,6 +1,6 @@
 ![](https://s1.ax1x.com/2023/08/20/pP8cNpq.jpg)
 
-### <div align="center">Hello Everyone  🔴🟡🟢，welcome to my page<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></div>  
+### <div align="center"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">Hello Everyone  🔴🟡🟢，welcome to my page<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></div>  
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NiceDayTooYou.NiceDayTooYou">
 
@@ -57,6 +57,9 @@
         </a>
     </p>
 </div>
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/NiceDayToYou/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/NiceDayTooYou)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/profile.php?id=100087409027814)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/serendipityniceday)  &nbsp; <a href="mailto:nicedaytoooyou@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  
 
 [![GitHub NiceDayTooYou](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/NiceDayTooYou)
 
