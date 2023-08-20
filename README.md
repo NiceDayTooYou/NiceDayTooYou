@@ -1,15 +1,16 @@
-![](https://cdn.jsdelivr.net/gh/Xuyan-cmd/picture-bed/sea.jpg)
+![](https://s1.ax1x.com/2023/08/20/pP8d1wq.png)
 
-### <div align="center">Hello GitHub Fans 👋，我是百川🌊</div>  
+### <div align="center">Hello GitHub Fans 👋，和美好不期而遇🤔</div>  
 
 <div>   
-    <img src=https://cdn.jsdelivr.net/gh/Xuyan-cmd/picture-bed/personlogo.png width=30% alt="personal" style="float: right;"> 
-    <p>🔭A Computer Engineering Undergraduate Student. & Open Source enthusiast.  </p>
-    <p>🌱Currently studying in Beijing, China.  </p>
-    <p>🪄 My major is cyber security</p>
-    <p>👨‍💻 I dream of being a white hat hacker one day  .</p>
-    <p>😋 Welcome to my blog</p>
-    <p><strong>The reason why I named Baichuan🌊 is because I like the sea very much. I think the sea is full of vitality, full of vitality, sometimes calm, sometimes unrestrained, and this kind of sea comes from the convergence of all the mountains, rivers and rivers in this world. The same is true of our life, each of us is like a stream🌊 in it, endlessly flowing, flowing towards the sea, and will eventually return to the sea. There is an ancient Chinese poem "When all rivers go east to the sea, when will they return to the west." In life, we have no chance to go back to the past, and the future is full of countless unknowns and challenges. We can only keep flowing forward, but No matter what the experience is, we will meet in the blue sea one day, and all rivers will return to the sea. I hope you and I can finally return to our own sea...</strong></p>
+    <img src=https://s1.ax1x.com/2023/08/20/pP8QPLF.png width=30% alt="personal" style="float: right;"> 
+    <p>🔭I am a novice who is always learning English.  </p>
+    <p>🌱Do I have dreams, yes I have dreams, it's just a blur.  </p>
+    <p>🪄 My personality is peaceful, I sometimes think of some good ideas.  </p>
+    <p>👨‍💻  For more detailed information about me, please see my resume.  </p>
+    <p>😋 Welcome to my page</p>
+    <p><strong>本人擅长Ai、Fw、Fl、Br、Ae、Pr、 Id、Ps等软件的安装与卸载，精通CSS、JavaScript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、Objective-C、ActionScript、Pascal等单词的拼写，熟悉Windows、Linux、Mac、Android、IOS、WP8等系统的开关机。
+本人学识渊博、经验丰富，对各种框架一窍不通，深山苦读20余年，每天只睡1个小时，千里之外定位问题，瞬息之间便可知晓。身体强壮、健步如飞，可连续使用手机100小时不休息，讨论信息12小时不喝水，上至洗碗刷牙、炒菜做饭，下至爬山钓鱼、NPC互动，啥都能干。西红柿泡面矿泉水已准备好，备用电源、万兆光纤永不断电断网，门口已埋雷无人打扰，欢迎各位到此一游~</strong></p>
 </div>
 
 
@@ -77,20 +78,3 @@
 ​    
 
 <div align="center"></div>
-
-### Hi there 👋
-
-<!--
-**NiceDayTooYou/NiceDayTooYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
