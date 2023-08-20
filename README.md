@@ -1,6 +1,14 @@
 ![](https://s1.ax1x.com/2023/08/20/pP8cNpq.jpg)
 
-### <div align="center">Hello Everyone  👋，welcome to my page<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></div>  
+### <div align="center">Hello Everyone  🔴🟡🟢，welcome to my page<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></div>  
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NiceDayTooYou.NiceDayTooYou">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=你好,+Hello!+❤️;欢迎+来到+LiYong+的页面....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 ![](https://s1.ax1x.com/2023/08/20/pP8cacV.png)
 
