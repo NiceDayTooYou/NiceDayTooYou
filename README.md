@@ -1,9 +1,10 @@
-![](https://s1.ax1x.com/2023/08/20/pP8QPLF.png)
+![](https://s1.ax1x.com/2023/08/20/pP8cNpq.jpg)
 
 ### <div align="center">Hello Everyone  👋，welcome to my page🤔</div>  
 
+![](https://s1.ax1x.com/2023/08/20/pP8cacV.png)
+
 <div>   
-    <img src=https://s1.ax1x.com/2023/08/20/pP86kin.png width=30% alt="personal" style="float: right;"> 
     <p>🔭I am a novice who is always learning English.  </p>
     <p>🌱Do I have dreams, yes I have dreams, it's just a blur.  </p>
     <p>🪄 My personality is peaceful, I sometimes think of some good ideas.  </p>
