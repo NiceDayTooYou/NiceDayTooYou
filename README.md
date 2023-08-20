@@ -1,6 +1,6 @@
 ![](https://s1.ax1x.com/2023/08/20/pP8cNpq.jpg)
 
-### <div align="center">Hello Everyone  👋，welcome to my page🤔</div>  
+### <div align="center">Hello Everyone  👋，welcome to my page<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></div>  
 
 ![](https://s1.ax1x.com/2023/08/20/pP8cacV.png)
 
@@ -10,11 +10,11 @@
 </picture>
 
 <div>   
-    <p>🔭I am a novice who is always learning English.  </p>
-    <p>🌱Do I have dreams, yes I have dreams, it's just a blur.  </p>
-    <p>🪄 My personality is peaceful, I sometimes think of some good ideas.  </p>
-    <p>👨‍💻  For more detailed information about me, please see my resume.  </p>
-    <p>😋 Welcome to my page</p>
+    <p>🔭I am a novice who is always learning English. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+    <p>🌱Do I have dreams, yes I have dreams, it's just a blur. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+    <p>🪄 My personality is peaceful, I sometimes think of some good ideas. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+    <p>👨‍💻  For more detailed information about me, please see my resume. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+    <p>😋 Welcome to my page <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
     <p><strong>本人擅长Ai、Fw、Fl、Br、Ae、Pr、 Id、Ps等软件的安装与卸载，精通CSS、JavaScript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、Objective-C、ActionScript、Pascal等单词的拼写，熟悉Windows、Linux、Mac、Android、IOS、WP8等系统的开关机。
 本人学识渊博、经验丰富，对各种框架一窍不通，深山苦读20余年，每天只睡1个小时，千里之外定位问题，瞬息之间便可知晓。身体强壮、健步如飞，可连续使用手机100小时不休息，讨论信息12小时不喝水，上至洗碗刷牙、炒菜做饭，下至爬山钓鱼、NPC互动，啥都能干。西红柿泡面矿泉水已准备好，备用电源、万兆光纤永不断电断网，门口已埋雷无人打扰，欢迎各位到此一游~</strong></p>
 </div>
@@ -30,6 +30,8 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div> 
+
+[![GitHub NiceDayTooYou](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/NiceDayTooYou)
 
 <h3>❤️Where to find me</h3>
 <p><a href="https://t.me/serendipityniceday" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -95,7 +97,7 @@
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
-  <small>你喜欢哪一个呢 😛</small>
+  <small>你喜欢哪一个呢 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></small>
   <br />
   <br />
 </div>
@@ -103,3 +105,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NiceDayTooYou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <a href=""><img height="137px" src="https://github-readme-stats.vercel.app/api?username=NiceDayTooYou&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
+
+![NiceDayTooYou github stats](https://github-readme-stats.vercel.app/api?username=NiceDayTooYou&show_icons=true&theme=dracula&hide=stars,issues)
