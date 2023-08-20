@@ -6,9 +6,20 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=你好,+Hello!+❤️;欢迎+来到+LiYong+的页面....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=你好,+Hello!+❤️;欢迎+来到+LiYong+的页面....;Nice+to+meet+you!&center=true&size=30&color=000000">
   </a>
 </h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://s1.ax1x.com/2023/08/20/pP8bBkt.png" alt="Li Yong" /></a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Nihao%20Welcome%20to%20Li%20Yong%20page;%20Glad%20you're%20here%20it's%20just%20a%20moment&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 ![](https://s1.ax1x.com/2023/08/20/pP8cacV.png)
 
