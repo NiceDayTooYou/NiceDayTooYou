@@ -90,3 +90,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 
+## 一些常用的编程语言 JavaScript/Typescript (Preact, Next.js, TensorFlow.js, Node, Deno) Rust, Python among others. 
+
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>你喜欢哪一个呢 😛</small>
+  <br />
+  <br />
+</div>
