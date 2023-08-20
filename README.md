@@ -41,7 +41,7 @@
  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
  
 <div align="center">
-    <h2>❤️Connect with me</h2>
+    <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />Connect with me</h2>
     <div>
         <a href="https://t.me/serendipityniceday" target="_blank">
             <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -62,6 +62,10 @@
   
 
 [![GitHub NiceDayTooYou](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/NiceDayTooYou)
+
+<p align="center">
+<a href="https://twitter.com/NiceDayTooYou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
+</p>
 
 <div align="center">
     <p align="center">
