@@ -177,3 +177,9 @@
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
+
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+## ⚡ Serendipity:
+- 宇宙没有尽头，也许有，但是这里已经是页面尽头了
+- see you next time
