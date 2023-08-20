@@ -4,6 +4,11 @@
 
 ![](https://s1.ax1x.com/2023/08/20/pP8cacV.png)
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=NiceDayTooYou&show_icons=true">
+</picture>
+
 <div>   
     <p>🔭I am a novice who is always learning English.  </p>
     <p>🌱Do I have dreams, yes I have dreams, it's just a blur.  </p>
@@ -85,4 +90,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=NiceDayTooYou)]()
