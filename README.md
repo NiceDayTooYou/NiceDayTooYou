@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://notion-next-vdb7.vercel.app/">
     <img src="https://s1.ax1x.com/2023/08/20/pP8bBkt.png" alt="Li Yong" /></a>
 </p>
 
