@@ -17,7 +17,7 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://notion-next-vdb7.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com/?lines=Nihao%20Welcome%20to%20Li%20Yong%20page;%20Glad%20you're%20here%20it's%20just%20a%20moment&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
