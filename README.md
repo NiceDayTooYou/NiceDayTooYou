@@ -11,13 +11,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://notion-next-vdb7.vercel.app/">
+  <a href="https://liyong.online/">
     <img src="https://s1.ax1x.com/2023/08/20/pP8bBkt.png" alt="Li Yong" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://notion-next-vdb7.vercel.app/">
+  <a href="https://liyong.online/">
     <img src="https://readme-typing-svg.demolab.com/?lines=Nihao%20Welcome%20to%20Li%20Yong%20page;%20Glad%20you're%20here%20it's%20just%20a%20moment&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
@@ -84,7 +84,7 @@
 
 <b>🟢&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b>
   <br/>
-  <a href='https://notion-next-vdb7.vercel.app/'>
+  <a href='https://liyong.online/'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a>
 
