@@ -138,7 +138,7 @@
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
-  <small>你喜欢哪一个呢 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></small>
+  <small>What is your favorite？ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></small>
   <br />
   <br />
 </div>
