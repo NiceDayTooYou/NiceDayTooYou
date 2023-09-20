@@ -35,7 +35,7 @@
     <p>👨‍💻  For more detailed information about me, please see my resume. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
     <p>😋 Welcome to my page <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
     <p><strong>本人擅长Ai、Fw、Fl、Br、Ae、Pr、 Id、Ps等软件的安装与卸载，精通CSS、JavaScript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、Objective-C、ActionScript、Pascal等单词的拼写，熟悉Windows、Linux、Mac、Android、IOS、WP8等系统的开关机。
-本人学识渊博、经验丰富，对各种框架一窍不通，深山苦读20余年，每天只睡1个小时，千里之外定位问题，瞬息之间便可知晓。身体强壮、健步如飞，可连续使用手机100小时不休息，讨论信息12小时不喝水，上至洗碗刷牙、炒菜做饭，下至爬山钓鱼、NPC互动，啥都能干。西红柿泡面矿泉水已准备好，备用电源、万兆光纤永不断电断网，门口已埋雷无人打扰，欢迎各位到此一游~</strong></p>
+本人学识渊博、经验丰富，对各种框架一窍不通，深山苦读20余年，每天只睡1个小时，千里之外定位问题，瞬息之间便可知晓。身体强壮、健步如飞，可连续使用手机100小时不休息，讨论信息12小时不喝水，上至洗碗刷牙、炒菜做饭，下至爬山钓鱼、NPC互动，啥都能干。西红柿泡面矿泉水已准备好，备用电源、万兆光纤永不断电断网，门口已埋雷无人打扰，欢迎各位到此一游~</strong></p> 
 </div>
 
  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
@@ -133,7 +133,7 @@
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
 
-## 一些常用的编程语言 JavaScript/Typescript (Preact, Next.js, TensorFlow.js, Node, Deno) Rust, Python among others. 
+## ~~一些常用的编程语言 JavaScript/Typescript (Preact, Next.js, TensorFlow.js, Node, Deno) Rust, Python among others.~~
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
@@ -181,5 +181,5 @@
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Serendipity:
-- 宇宙没有尽头，也许有，但是这里已经是页面尽头了
-- see you next time
+- ~~宇宙没有尽头，也许有，但是这里已经是页面尽头了~~
+- ~~see you next time~~
