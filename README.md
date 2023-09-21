@@ -21,7 +21,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Nihao%20Welcome%20to%20Li%20Yong%20page;%20Glad%20you're%20here%20it's%20just%20a%20moment&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-![](https://s1.ax1x.com/2023/08/20/pP8cacV.png)
+![](https://z1.ax1x.com/2023/09/21/pPIBlM4.png)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
