@@ -146,22 +146,10 @@
 <div style="display: flex; justify-content: space-between;">
     <div>
         <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=NiceDayTooYou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-        </p>
-        <p align="center">
             <a href=""><img height="137px" src="https://github-readme-stats.vercel.app/api?username=NiceDayTooYou&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
         </p>
     </div>
-    <div>
-        <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=NiceDayTooYou&show_icons=true&theme=dracula&hide=stars,issues" />
-        </p>
-        <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=NiceDayTooYou&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-        </p>
-    </div>
-</div>
-
+    
 <div align="center">
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
@@ -191,15 +179,9 @@
     </tr>
 </table>
 
-
 ## Timeline one
 
 [![Stargazers over time](https://starchart.cc/tangly1024/NotionNext.svg)](https://starchart.cc/tangly1024/NotionNext)
-
-
-## Timeline two
-
-[![Stargazers over time](https://starchart.cc/NuroDev/nuro.dev.svg)](https://starchart.cc/NuroDev/nuro.dev)
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
