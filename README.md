@@ -187,5 +187,5 @@
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Serendipity:
 
-- ~~宇宙没有尽头，也许有，但是这里已经是页面尽头了~~
+- ~~宇宙没有尽头，也许有，但是这里就是页面尽头~~
 - ~~see you next time~~
