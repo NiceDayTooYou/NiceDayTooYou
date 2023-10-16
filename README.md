@@ -183,6 +183,8 @@
 
 [![Stargazers over time](https://starchart.cc/tangly1024/NotionNext.svg)](https://starchart.cc/tangly1024/NotionNext)
 
+![](https://i2.100024.xyz/2023/10/16/reqpiu.gif)
+
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Serendipity:
