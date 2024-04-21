@@ -2,8 +2,6 @@
 
 ### <div align="center"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">Hello Everyone  🔴🟡🟢，welcome to my page<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></div>  
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NiceDayTooYou.NiceDayTooYou">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=你好,+Hello!+❤️;欢迎+来到+LiYong+的页面....;Nice+to+meet+you!&center=true&size=30&color=000000">
