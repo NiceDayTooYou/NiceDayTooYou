@@ -191,8 +191,8 @@ const thai = {
         <th>微信</th>
     </tr>
     <tr>
-        <td><img alt="支付宝" src="https://i2.100024.xyz/2023/09/21/n7f6gx.webp"></td>
-        <td><img alt="微信支付" src="https://i2.100024.xyz/2023/09/21/n5njet.webp"></td>
+        <td><img alt="支付宝" src="https://s1.imagehub.cc/images/2024/04/21/4357bf21d11b1b58018fa2f0ba7e3d36.png" border="0"></td>
+        <td><img alt="微信支付" src="https://s1.imagehub.cc/images/2024/04/21/a465d59b2e6fb7d4d2f2ffa178520ed5.png" border="0"></td>
     </tr>
 </table>
 
