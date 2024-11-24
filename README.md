@@ -185,11 +185,11 @@ const thai = {
 生活需要仪式感，每一天都是一个新的篇章，每一个瞬间都是一个特殊的时刻，每一次微笑、每一次拥抱、每一次感恩，都是生活的仪式感，用感恩的心态对待每一天。。
 <table width="100%">
     <tr>
-        <th>支付宝</th>
-        <th>微信</th>
+        <th>支付宝支付</th>
+        <th>微信支付</th>
     </tr>
     <tr>
-        <td><img alt="支付宝" src="https://s1.imagehub.cc/images/2024/04/21/4357bf21d11b1b58018fa2f0ba7e3d36.png" border="0"></td>
+        <td><img alt="支付宝" src="https://s1.imagehub.cc/images/2024/11/24/906a825278b8c2582d080208cee524b6.png" border="0"></td>
         <td><img alt="微信支付" src="https://s1.imagehub.cc/images/2024/04/21/a465d59b2e6fb7d4d2f2ffa178520ed5.png" border="0"></td>
     </tr>
 </table>
