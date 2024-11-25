@@ -204,5 +204,7 @@ const thai = {
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Serendipity:
 
+### <h1><p align ="center"> Do you know ❤️ What it's LOVE <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> Happy all day Okay!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p> </h1>
+
 - ~~宇宙没有尽头，也许有，但是这里就是页面尽头~~
 - ~~see you next time~~
