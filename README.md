@@ -9,13 +9,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://liyong.online/">
+  <a href="https://www.199681.xyz/">
     <img src="https://s1.ax1x.com/2023/08/20/pP8bBkt.png" alt="Li Yong" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://liyong.online/">
+  <a href="https://www.199681.xyz/">
     <img src="https://readme-typing-svg.demolab.com/?lines=Nihao%20Welcome%20to%20Li%20Yong%20page;%20Glad%20you're%20here%20it's%20just%20a%20moment&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
@@ -65,11 +65,11 @@
 <a href="https://twitter.com/NiceDayTooYou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 </p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝐀 𝐥𝐢𝐭𝐭𝐥𝐞 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞...  
 
 ```javascript
 const thai = {
-  name: "Li" | "Yong",
+  name: "𝐋𝐢" | "𝐘𝐎𝐍𝐆",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
@@ -84,7 +84,7 @@ const thai = {
 
 <b>🟢&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b>
   <br/>
-  <a href='https://liyong.online/'>
+  <a href='https://www.199681.xyz/'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a>
 
@@ -204,7 +204,7 @@ const thai = {
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Serendipity: 𝕆𝕝𝕚𝕧𝕖𝕣 𝐋𝐢 𝐘𝐎𝐍𝐆
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Serendipity: 𝐋𝐢 𝐘𝐎𝐍𝐆
 
 - ~~宇宙没有尽头，也许有，但是这里就是页面尽头~~
 ### <h1> 𝖘𝖊𝖊 𝖞𝖔𝖚 𝖓𝖊𝖝𝖙 𝖙𝖎𝖒𝖊 </h1>
