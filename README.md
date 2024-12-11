@@ -1,6 +1,6 @@
 ![](https://s1.ax1x.com/2023/08/20/pP8cNpq.jpg)
 
-### <div align="center"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">Hello Everyone  🔴🟡🟢，welcome to my page<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></div>  
+### <div align="center"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">ℍ𝕖𝕝𝕝𝕠 𝔼𝕧𝕖𝕣𝕪𝕠𝕟𝕖  🔴🟡🟢，𝕨𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕡𝕒𝕘𝕖<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></div>  
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -182,7 +182,7 @@ const thai = {
 </div>
 
 ### ❤️ 赞助
-生活需要仪式感，每一天都是一个新的篇章，每一个瞬间都是一个特殊的时刻，每一次微笑、每一次拥抱、每一次感恩，都是生活的仪式感，用感恩的心态对待每一天。。
+生活需要仪式感，每一天都是一个新的篇章，每一个瞬间都是一个特殊的时刻，每一次微笑、每一次拥抱、每一次感恩，都是生活的仪式感，用感恩的心态对待每一天。。。
 <table width="100%">
     <tr>
         <th>支付宝支付</th>
@@ -200,11 +200,11 @@ const thai = {
 
 ![](https://i2.100024.xyz/2023/10/16/reqpiu.gif)
 
-# <h1><p align ="center"> Do you know ❤️ What it's LOVE <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> Happy all day Okay </p> </h1>
+# <h1><p align ="center"> 𝓓𝓸 𝔂𝓸𝓾 𝓴𝓷𝓸𝔀 ❤️ 𝕎𝕙𝕒𝕥 𝕚𝕥'𝕤 𝕃𝕆𝕍𝔼 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> 𝓗𝓪𝓹𝓹𝔂 𝓪𝓵𝓵 𝓭𝓪𝔂 𝓞𝓴𝓪𝔂 </p> </h1>
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Serendipity: 李勇Oliver
 
 - ~~宇宙没有尽头，也许有，但是这里就是页面尽头~~
-- ~~see you next time~~
+### ~~𝖘𝖊𝖊 𝖞𝖔𝖚 𝖓𝖊𝖝𝖙 𝖙𝖎𝖒𝖊~~
