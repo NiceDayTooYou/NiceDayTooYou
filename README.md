@@ -1,6 +1,6 @@
 ![](https://s1.ax1x.com/2023/08/20/pP8cNpq.jpg)
 
-### <div align="center"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">ℍ𝕖𝕝𝕝𝕠 𝔼𝕧𝕖𝕣𝕪𝕠𝕟𝕖  🔴🟡🟢，𝕨𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕡𝕒𝕘𝕖<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></div>  
+### <div align="center"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">𝓗𝓮𝓵𝓵𝓸 𝓮𝓿𝓮𝓻𝔂𝓸𝓷𝓮  🔴🟡🟢，𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓪𝓰𝓮<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></div>  
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -200,7 +200,7 @@ const thai = {
 
 ![](https://i2.100024.xyz/2023/10/16/reqpiu.gif)
 
-# <h1><p align ="center"> 𝓓𝓸 𝔂𝓸𝓾 𝓴𝓷𝓸𝔀 ❤️ 𝕎𝕙𝕒𝕥 𝕚𝕥'𝕤 𝕃𝕆𝕍𝔼 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> 𝓗𝓪𝓹𝓹𝔂 𝓪𝓵𝓵 𝓭𝓪𝔂 𝓞𝓴𝓪𝔂 </p> </h1>
+# <h1><p align ="center"> 𝓓𝓸 𝔂𝓸𝓾 𝓴𝓷𝓸𝔀 ❤️ 𝕎𝕙𝕒𝕥 𝕚𝕥'𝕤 𝕃𝕆𝕍𝔼 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> ℍ𝕒𝕡𝕡𝕪 𝕒𝕝𝕝 𝕕𝕒𝕪 𝕠𝕜𝕒𝕪? </p> </h1>
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
