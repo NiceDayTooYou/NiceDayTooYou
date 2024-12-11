@@ -200,11 +200,11 @@ const thai = {
 
 ![](https://i2.100024.xyz/2023/10/16/reqpiu.gif)
 
-# <h1><p align ="center"> 𝓓𝓸 𝔂𝓸𝓾 𝓴𝓷𝓸𝔀 ❤️ 𝕎𝕙𝕒𝕥 𝕚𝕥'𝕤 𝕃𝕆𝕍𝔼 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> ℍ𝕒𝕡𝕡𝕪 𝕒𝕝𝕝 𝕕𝕒𝕪 𝕠𝕜𝕒𝕪? </p> </h1>
+# <h1><p align ="center"> 𝔻𝕠 𝕪𝕠𝕦 𝕜𝕟𝕠𝕨 ❤️ 𝕎𝕙𝕒𝕥 𝕚𝕥'𝕤 𝕃𝕆𝕍𝔼 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> ℍ𝕒𝕡𝕡𝕪 𝕒𝕝𝕝 𝕕𝕒𝕪 𝕠𝕜𝕒𝕪? </p> </h1>
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Serendipity: 李勇Oliver
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Serendipity: 𝕆𝕝𝕚𝕧𝕖𝕣 𝐋𝐢 𝐘𝐎𝐍𝐆
 
 - ~~宇宙没有尽头，也许有，但是这里就是页面尽头~~
-### ~~𝖘𝖊𝖊 𝖞𝖔𝖚 𝖓𝖊𝖝𝖙 𝖙𝖎𝖒𝖊~~
+### <h1> 𝖘𝖊𝖊 𝖞𝖔𝖚 𝖓𝖊𝖝𝖙 𝖙𝖎𝖒𝖊 </h1>
